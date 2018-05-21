@@ -1,0 +1,40 @@
+
+body {
+	margin: 0px;
+font-family: 'El Rio Lobo';
+}
+
+h1{
+			font-family: 'El Rio Lobo';
+		}
+
+		#bloque-1{
+			margin: 0px;
+			text-align: center;
+			background-color: red;
+			padding: 20px 0;
+		}
+
+		#bloque-2{
+			margin: 0px;
+            text-align: center;
+			background-color: blue;
+			padding: 100px 0;
+		}
+
+		#bloque-3{
+			margin: 0px;
+            text-align: right;
+			background-image: url('../images/cuzco2.jpg');
+			background-size: cover;
+			height: 800px;
+			color: white;
+		}
+
+		#bloque-4{
+
+            font-weight: normal;
+            text-align: center;
+            font-size: 40px;
+        }
+
